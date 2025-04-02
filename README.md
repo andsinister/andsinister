@@ -1,7 +1,7 @@
-## Bem-vindo(a) ao perfil do andsinister 😁
+## Bem-vindo(a) ao perfil do André 😁
 
  <div>
-   <a href="https://github.com/andsinister">
+   <a href="https://github.com/André">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andsinister&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andsinister&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
